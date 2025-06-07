@@ -4,13 +4,13 @@ import exclusive_image from '../Assets/exclusive_image.png'
 export const Offers = () => {
   return (
     <div className='offers'>
-        <div className="offer-left">
+        <div className="offers-left">
             <h1>Exclusive Offer</h1>
             <h1>Offer For You</h1>
             <p>Only on Best Selling Product</p>
             <button>Check Now</button>
         </div>
-        <div className="offer-right">
+        <div className="offers-right">
             <img src={exclusive_image} alt="" />
 
         </div>
