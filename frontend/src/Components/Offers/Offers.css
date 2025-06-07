@@ -16,7 +16,7 @@
 }
 .offers-left h1{
     color: #171717;
-    font: 5em;
+    font: 80px;
     font-weight: 600;
 
 }
@@ -44,5 +44,4 @@ offers-right{
     align-items: center;
     justify-content: flex-end;
     padding-top: 50px;
-    
 }
