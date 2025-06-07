@@ -20,7 +20,7 @@
 .footer-links{
     display: flex;
     list-style: none;
-    gap: 5opx;
+    gap: 50px;
     color: #252525;
     font-size: 20px;
 }
@@ -54,5 +54,5 @@
     border: none;
     border-radius: 10px;
     height: 3px;
-    background-color: #c7c7c7;
+    background-color: #c7c7c7; 
 }
