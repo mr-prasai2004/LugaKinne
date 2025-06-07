@@ -13,7 +13,7 @@ export const Hero = () => {
                 <p>New</p>
                 <img src={hand_icon} alt=''/>
             </div>
-            <p>Colloction</p>
+            <p>Collection</p>
             <p>For Everyone</p>
             </div>
             <div className="hero-latest-btn">
