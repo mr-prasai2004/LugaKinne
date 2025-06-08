@@ -2,6 +2,7 @@ import React from 'react'
 import './Popular.css'
 import data_product from '../Assets/data'
 import { Item } from '../Items/Item'
+
 export const Popular = () => {
   return (
     <div className='popular'>
