@@ -12,11 +12,20 @@ flex-direction: column;
 gap:16px;
 }
 .productdisplay-img-list img{
-    height: 163px;
+    height: 187px;
 
 }
 .productdisplay-main-img{
-    width: 568px;
-    width: 700px;
-    
+    width: 368px;
+    width: 500px;
+}
+.productdisplay-right{
+    margin: 0px 70px;
+    display: flex;
+    flex-direction: column;
+}
+.productdisplay-right h2{
+    color: #3d3d3d;
+    font-size: 40px;
+    font-weight: 600;
 }
